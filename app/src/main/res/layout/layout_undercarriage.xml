@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/img_tpms_car"
+        android:layout_width="143dp"
+        android:layout_height="316dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/tpms_car_img_sstool"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_tires_lf"
+        android:layout_width="30dp"
+        android:layout_height="49dp"
+        android:layout_alignStart="@+id/img_tpms_car"
+        android:layout_alignTop="@+id/img_tpms_car"
+        android:background="@drawable/select_tpms_tires"
+        android:focusable="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.366"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.38" />
+
+    <TextView
+        android:id="@+id/tv_tires_lf_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/tv_tires_lf"
+        android:layout_marginEnd="20dp"
+        android:layout_toStartOf="@+id/tv_tires_lf"
+        android:gravity="end"
+        android:textColor="@android:color/black" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DHY-20210315/AndroidStudioProjects/MyApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.164" />
+        <entry key="..\:/Users/DHY-20210315/AndroidStudioProjects/MyApp/app/src/main/res/drawable/round_mark_chat_read_indigo_900_36dp.xml" value="0.164" />
+        <entry key="..\:/Users/DHY-20210315/AndroidStudioProjects/MyApp/app/src/main/res/drawable/select_tpms_tires.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/DHY-20210315/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/DHY-20210315/AndroidStudioProjects/MyApp/app/src/main/res/layout/chat.xml" value="0.29780701754385963" />
+        <entry key="..\:/Users/DHY-20210315/AndroidStudioProjects/MyApp/app/src/main/res/layout/devices.xml" value="0.29780701754385963" />
+        <entry key="..\:/Users/DHY-20210315/AndroidStudioProjects/MyApp/app/src/main/res/layout/layout_flow_test.xml" value="0.29780701754385963" />
+        <entry key="..\:/Users/DHY-20210315/AndroidStudioProjects/MyApp/app/src/main/res/layout/layout_undercarriage.xml" value="0.67" />
+        <entry key="..\:/Users/DHY-20210315/AndroidStudioProjects/MyApp/app/src/main/res/layout/list_item.xml" value="0.29780701754385963" />
+        <entry key="..\:/Users/DHY-20210315/AndroidStudioProjects/MyApp/app/src/main/res/layout/main.xml" value="0.29780701754385963" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
